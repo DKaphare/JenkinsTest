@@ -3,7 +3,7 @@
 
     <test name="Smoke Tests">
         <classes>
-            <class name="Pages.LoginPage"/>
+            <class name="tests.LoginTest"/>
         </classes>
     </test>
 
